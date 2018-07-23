@@ -32,3 +32,4 @@ class RestaurantCreateUpdateSerializer(serializers.ModelSerializer):
             'opening_time',
             'closing_time',
             ]
+
